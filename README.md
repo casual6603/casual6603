@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @casual6603
-- 👀 I’m interested in Coding, Biolog
+- 👀 I’m interested in Coding, Biology
 - 🌱 I’m currently learning React/ ReactNative and C#
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: Email works fine
